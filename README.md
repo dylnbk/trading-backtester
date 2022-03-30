@@ -1,7 +1,7 @@
 # trading-backtester
 Script for backtesting & optimizing trades
 
-I use data from Binance
+I use data pulled from Binance API.
 
 Set up with SuperTrend, take profit & stop loss. 
 
